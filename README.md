@@ -62,6 +62,6 @@ npm run dev
 
 ## Contato
 
-Alexandre de Castro Nunes - [acnunes.dev@gmail.com](acnunes.dev@gmail.com)
+Alexandre de Castro Nunes - [acnunes.dev@gmail.com](mailto:acnunes.dev@gmail.com)
 
 Link para o projeto: [https://devfrases-26qzvu42v-acastros-projects-d8da2326.vercel.app/](https://devfrases-26qzvu42v-acastros-projects-d8da2326.vercel.app/)
