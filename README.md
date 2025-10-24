@@ -64,4 +64,4 @@ npm run dev
 
 Alexandre de Castro Nunes - [acnunes.dev@gmail.com](mailto:acnunes.dev@gmail.com)
 
-Link para o projeto: [https://devfrases-26qzvu42v-acastros-projects-d8da2326.vercel.app/](https://devfrases-26qzvu42v-acastros-projects-d8da2326.vercel.app/)
+Link para o projeto: [https://devfrases-kappa.vercel.app/](https://devfrases-kappa.vercel.app/)
